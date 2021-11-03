@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sansiveri-Alexzander
 - 👀 I’m interested in the philosphical nature of the world we live in
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Discord
+- 🌱 I’m currently learning how to use Tensorflow
 - 📫 sasha.sansiveri@gmail.com
 
 <!---
